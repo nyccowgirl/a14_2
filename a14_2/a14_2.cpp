@@ -52,7 +52,6 @@
 using namespace std;
 using namespace cs_mystring;
 
-int COUNT = 0;
 
 bool isAPalindrome(MyString str, int left, int right);
 
